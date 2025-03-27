@@ -1,3 +1,3 @@
-# my-first-project
+# my-first-homework
 
-This is my first project.
+This is my first homework.
